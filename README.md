@@ -8,3 +8,6 @@ depending on what you enter. You are able to control the color, thickness, and v
 I made the project on Intelij, and followed the osciliart tutorial provided by the Hack Club. I struggled with following the tutorial, as the directions were not very clear. I was struggling with
 the order of the code, and where to place each function. This ended taking many hours to finish. However, I learned the importance of patient and how useful Javascript can be. Javascript
 makes a website come to life, and is essential for any interactive website. 
+
+https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge
+https://award.athena.hackclub.com?utm_source=readme
